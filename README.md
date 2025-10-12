@@ -1,4 +1,4 @@
-# resume.md
+# resume-markdown
 
 ![Resume](https://raw.githubusercontent.com/mikepqr/resume-markdown/main/example/resume.png)
 
