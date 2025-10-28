@@ -1,3 +1,9 @@
+```python3 -m venv venv
+pip3 install resume-markdown
+(edit resume.md)
+resume-markdown build
+(pdf generated)
+```
 # resume-markdown
 
 ![Resume](https://raw.githubusercontent.com/mikepqr/resume-markdown/main/example/resume.png)
